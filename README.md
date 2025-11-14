@@ -146,8 +146,3 @@ To validate that my monitoring system works, I checked the alarm system manually
 
 ---
 
-## Comparing CloudWatch with CloudTrail Notifications
-
----
-
----
